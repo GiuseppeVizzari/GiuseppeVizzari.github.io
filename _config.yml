@@ -28,7 +28,7 @@ twitter_username: VizzariG
 github_username:  gvizzari
 
 # Build settings
-theme: minima
+theme: Midnight
 plugins:
   - jekyll-feed
 
