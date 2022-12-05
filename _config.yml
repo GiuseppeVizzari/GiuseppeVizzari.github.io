@@ -22,13 +22,13 @@ title: Giuseppe Vizzari personal web site
 email: giuseppe.vizzari@unimib.it
 description: >- # this means to ignore newlines until "baseurl:"
   Personal web page of Prof. Giuseppe Vizzari, currently associate professor at the University of Milano-Bicocca.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://giuseppevizzari.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VizzariG
 github_username:  gvizzari
 
 # Build settings
-theme: Midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
