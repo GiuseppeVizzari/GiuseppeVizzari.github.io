@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giuseppe Vizzari / Viz's Homepage"
+title                    : "Viz's Homepage"
 title_separator          : "-"
 name                     : &name "Giuseppe Vizzari"
 description              : &description "Associate professor at University of Milano-Bicocca, Milan, Italy"
