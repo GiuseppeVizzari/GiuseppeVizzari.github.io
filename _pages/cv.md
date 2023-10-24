@@ -9,51 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Career
+Giuseppe Vizzari is Associate Professor (since October 2015) and member of the Department of Informatics, Systems and Communication (University of Milano-Bicocca, Milan, Italy). He has a Degree in Computer Science, from the University of Milan, and a PhD in Computer Science from University of Milano-Bicocca. He has been a fellow of the Japanese Society for the Promotion of Science (JSPS), spending a research period between the months of July and August 2011 at the Research Center on Advanced Science and Technology of the University of Tokyo. Since October 2018 he is president of the master's degree course on Theory and Technology of Communication, an interdisciplinary course coming from the collaboration of the Department of Informatics, Systems and Communication and the Department of Psychology of the University of Milano-Bicocca.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Activity
+His research activities mainly concern agent based models and technologies (situated agent models and applications, environments for multi-agent systems, agent-based modelling and simulation of complex systems, with particular attention to crowds of pedestrians and traffic systems), knowledge based systems (case-based reasoning and semantic web applications), artificial intelligence and computer vision applications to the analysis of complex and collective phenomena (in particular, crowds of pedestrians). His researches are strongly characterized by an interdisciplinary nature, which implied the collaboration with researchers in the fields of civil and transportation engineering, psychology, social sciences, biology, archaeology and humanities in general, and more recently astrophysics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Projects
+He is leader of the WP4 - Data integration, analysis, security, and delivery of the Spoke 8 - Mobility-as-a-Service in the Center on Sustainable Mobility funded by the Next Generation EU plan. He was is responsible for the Research Unit of the University of Milano-Bicocca within the NEANIAS project (Novel EOSC services for Emerging Atmosphere, Underwater and Space Challenges, 2019 - 2021), funded by the EC in the call H2020-INFRAEOSC-2018-2020. He has led the modeling and simulation activities of the Crystals project (2010-2011), funded by the Centre of Research Excellence in Hajj and Omrah of the Umm Al-Qura University (Makkah, Saudi Arabia) and in collaboration with the Research Center for Advanced Science and Technology of the University of Tokyo (Japan). He was responsible for the activities of knowledge modeling, definition of ontologies for the organization of digital contents related to local Cultural-Heritage in the TIVAL (Integrated Technologies for the Valorization of Cultural Heritage) project (2010-2012), funded by Regione Lombardia, carried out in collaboration with Politecnico di Milano, University of Pavia, University of Milano. Earlier he collaborated with the FIRB Project MAIS (Multichannel Adaptive Information Systems Multichannel Adaptive Information Systems)(2002-2005), and with the P-TRUCK project (2002-2004), funded by Pirelli Tyres.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Supervision of young researchers
+He has supervised two PhD students at the University of Milano-Bicocca (Luca Crociani and Sultan Daud Khan – XXVIII cycle). He supervised a visiting PhD student from the Federal University of Uberlândia, Uberlândia, Brazil (Claudiney Tinoco), from December 2019 to August 2020. He has supervised a visiting PhD student from University of Science and Technology of China, Hefei (Yiping Zeng), for one year from October 2016 to October 2017, supported by the Specialized Research Fund for the Doctoral Program of Higher Education of China. He has supervised a visiting master student from Beijing University of Technology (Zhao Pengfei) between October and December 2015, supported by a scholarship by the same University. He supervised a placement of José Miguel Pinazo (AINIA, Spain) for four months between October 2009 and January 2010. He is member of the board of the PhD course in Computer Science since 2014 and he was vice coordinator between October 2015 and January 2017. He co-chaired a PhD school on “The Complexity of Crowd Dynamics: analysis, modeling, simulation” in 2014, and he held seminars and courses in several PhD schools: in particular, he held a tutorial “Agent-Based Modeling for the Simulation of Complex Systems”, in the context of the 11th European Agent Systems Summer School (EASSS’09), University of Torino, Italy.
+
+## Professional Scientific Services
+He is member of the Editorial Board of “Complex Adaptive Systems Modeling” since its foundation (2013), “Collective Dynamics” since its foundation (2015), and “Digital (MDPI)” since 2020. He was Program Co-Chair of the 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021). He is member of the Steering Committee of the Agents in Traffic and Transportation International Workshop Series since 2012, and co-chair of the following editions: 2014 (in the context of AAMAS 2014), 2016 (in the context of IJCAI 2016), 2020 (in the context of ECAI 2020), 2022 (in the context of IJCAI-ECAI). He was co-chair of the Agent Based Modelling and Simulation symposia, held in 2006, 2008, 2010 and 2012 in the context of the European Meeting on Cybernetics and Systems Research; he was co-chair of the Advances in Computer Simulation track of the 2008, 2009 and 2010 ACM Symposium on Applied Computing; he was workshop co-chair for the 2009 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT'09). He was involved in the program committee of many international conferences and workshops, most notable: AAMAS, IAT, AI*IA, TRB, EUMAS, ACRI, TGF, PED, and recently also IJCAI. He co-edited six special issues of ISI indexed journal (Cybernetics and Systems, ACM Transactions on Modeling and Computer Simulation, Journal of Cellular Automata, AI Communications). He served as expert reviewer by the following institutions: Netherlands Organization for Scientific Research (NWO), Swiss State Secretariat for Education and Research (SER) COST projects, Swiss National Science Foundation, Research Foundation Flanders (Fonds Wetenschappelijk Onderzoek - Vlaanderen, FWO), FWF - Austrian Science Fund, National Science Centre, Poland.
+
+## Technology Transfer
+He carried out research contacts for Inspiring SW S.r.l. and BTO S.p.a. He also collaborated with CROWDYXITY S.r.l., a spin-off company of the University of Milano-Bicocca focused on the application of agent-based pedestrian modeling and simulation to support the activities of designers and urban planners. 
