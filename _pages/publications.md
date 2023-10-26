@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can find a pretty exhaustive list of my articles on [my Google Scholar profile](https://scholar.google.it/citations?user=UyrfibgAAAAJ&hl=it).
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also take a look at [my ResearchGate profile](https://www.researchgate.net/profile/Giuseppe-Vizzari), if you use this social medium.
