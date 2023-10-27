@@ -16,4 +16,6 @@ To kick off a personal web page on Github, although there's of course __nothing_
 
 This really feels liberating, irrespectively of the fact that nobody might read this post.
 
+And, of course, this is a work in progress, __it ain't much but it's honest work__, like the man in the meme says.
+
 Oh, by the way, it's a good place to remind that views, information, or opinions expressed here are my own, and they do not necessarily represent those of my current employer (University of Milano-Bicocca) and its employees.
