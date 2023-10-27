@@ -8,7 +8,7 @@ tags:
   - lazy
 ---
 
-# First post...
+## First post...
 
 It feels weird to write a blog post in October 2023. I think there's no need for explanations, we're waist deep in the social media era (although things can change quickly, as the story of the social medium formerly known as Twitter shows very well), and especially in the academia we have very limited time for anything beyond meaningless but inevitable bureaucratic duties (and in the outside world, at least in Italy, it can be [much worse](https://www.goodreads.com/book/show/159083658-le-grandi-dimissioni))... so I shouldn't have done this post and the container it is in.
 
