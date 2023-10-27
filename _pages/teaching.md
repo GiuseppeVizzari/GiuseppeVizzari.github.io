@@ -12,11 +12,11 @@ author_profile: true
 - (2012 - now) Complex Systems: Models and Simulation - 4 or 5 ECTS assignment - Master's Degree in Computer Science - 1st year
 - (2021 - 2022) Technologies and Applications of Distributed Systems (Laboratory) - 3 ECTS - Master's Degree in Communication Theory and Technology - 2nd year
 - (2015 - 2020) Web Tools and Applications - 6 ECTS - Master's Degree in Communication Theory and Technology - 1st year
-- (2012 - 2021) Distributed Systems (Laboratory) - 2 ECTS - Degree in Computer Science - 2nd year
-- (2008 - 2012) Software Engineering (Laboratory) - 1 ECTS - Degree in Informatics - 2nd year
-- (2006 - 2012) Programming Languages (Laboratory) - 2 ECTS - Degree in Computer Science - 2nd year
+- (2012 - 2021) Distributed Systems (Laboratory) - 2 ECTS - Bachelor's Degree in Computer Science - 2nd year
+- (2008 - 2012) Software Engineering (Laboratory) - 1 ECTS - Bachelor's Degree in Informatics - 2nd year
+- (2006 - 2012) Programming Languages (Laboratory) - 2 ECTS - Bachelor's Degree in Computer Science - 2nd year
 - (2008 - 2010) Knowledge Representation Laboratory - 4 ECTS - Master's Degree in Computer Science - 2nd year
-- (2006 - 2012) Mathematics and Computer Science Laboratory - various formats from 2.5 to 4 ECTS - Degree in Mathematics - 1st year
+- (2006 - 2012) Mathematics and Computer Science Laboratory - various formats from 2.5 to 4 ECTS - Bachelor's Degree in Mathematics - 1st year
 - (2006 - 2011) Complements of Artificial Intelligence (module of the teaching of Artificial Intelligence and Complex Systems) - 4 ECTS - Master's Degree in Computer Science - 1st year
 
 ## Teaching duties (PhD)
