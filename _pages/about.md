@@ -16,6 +16,6 @@ I'm currently leader of a Work Package within Spoke 8 (Mobility as a Service) of
 
 More on my profile and research activities in the [CV section](cv/).
 
-Views, information, or opinions expressed here are my own, and they do not necessarily represent those of my current employer (University of Milano-Bicocca) and its employees.
+Views, information, or opinions expressed here are my own, and they do not necessarily represent those of my current employer (University of Milano-Bicocca) and its employees. I assume no responsibility or liability for any errors or omissions in the content of this site. The information contained in this site is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness. While I generally strive for accuracy I can and I will be wrong at times, as any honest human will admit to.
 
 Credits: the web site is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted [GitHub pages](https://pages.github.com). This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose. It supports a lot of things, I use a very small portion of what it offers, and I'll probably never have the time to do more...
