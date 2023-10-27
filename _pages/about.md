@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Giuseppe Vizzari, associate professor at the [Department of Informatics, Systems and Communication](https://www.disco.unimib.it/) of the [University of Milano-Bicocca](https://en.unimib.it/).
 
-I'm currently Coordinator of the master's degree in [Theory and Technology of Communication (TTC)](https://en.unimib.it/graduate/theory-technology-communication), a joint effort with the [Department of Psychology](https://psicologia.unimib.it/en). A basic description of the course is available in English (above link), but the classes are mostly in Italian, so more information can be found in Italian only in a dedicated website in [TTC's University's Moodle](https://elearning.unimib.it/course/index.php?categoryid=3514)).
+I'm currently Coordinator of the master's degree in [Theory and Technology of Communication (TTC)](https://en.unimib.it/graduate/theory-technology-communication), a joint effort with the [Department of Psychology](https://psicologia.unimib.it/en). A basic description of the course is available in English (above link), but the classes are mostly in Italian, so more information can be found in Italian only in a dedicated website in [TTC's University's Moodle](https://elearning.unimib.it/course/index.php?categoryid=3514).
 
 I'm currently leader of a Work Package within Spoke 8 (Mobility as a Service) of the NextGenerationEu funded [National Center for Sustainable Mobility (MOST)](https://www.centronazionalemost.it/). This is the front page of my personal website in which you can find some information about me (and links to other web sites / services that conveniently automatically offer information about me), some current and past activity I want to highlight.
 
