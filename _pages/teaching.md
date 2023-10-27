@@ -18,6 +18,7 @@ author_profile: true
 - (2008 - 2010) Knowledge Representation Laboratory - 4 ECTS - Master's Degree in Computer Science - 2nd year
 - (2006 - 2012) Mathematics and Computer Science Laboratory - various formats from 2.5 to 4 ECTS - Bachelor's Degree in Mathematics - 1st year
 - (2006 - 2011) Complements of Artificial Intelligence (module of the teaching of Artificial Intelligence and Complex Systems) - 4 ECTS - Master's Degree in Computer Science - 1st year
+
 Please notice that:
 - the reported ECTS refers to my workload in the class, not the overall ECTS value;
 - unless otherwise indicated (e.g. Laboratory) I am the main instructor.
