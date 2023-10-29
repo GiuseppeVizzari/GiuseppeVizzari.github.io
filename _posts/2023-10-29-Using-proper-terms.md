@@ -10,7 +10,7 @@ tags:
 
 ## On using the proper terms...
 
-The higher education system, and the mainstream shared conception is that high levels of specialization are desirable, and useful on the individual level. If we project this kind of idea as the most shared principle driving individual training from high-school, to university, and potentially grad-school, we end up with a population of specialists. I've read a [book on the advantages of being a generalist (Range, by David Epstein)](https://davidepstein.com/the-range/) rather than having an early specialization, but surely one side effect of focusing intensely on something and not wasting time on other things is that we tend to become ignorant on any other subject outside our area of specialization.
+The higher education system, and the mainstream shared conception is that high levels of specialization are desirable, and useful at the individual level. If we project this kind of idea as the most shared principle driving individual training from high-school, to university, and potentially grad-school, we end up with a population of specialists. I've read a [book on the advantages of being a generalist (Range, by David Epstein)](https://davidepstein.com/the-range/) rather than having an early specialization, but surely one side effect of focusing intensely on something and not wasting time on other things is that we tend to become ignorant on any other subject outside our area of specialization.
 
 This phenomenon has a direct influence on the topic of the post, which is the usage of wrong terms, typically introduced in other fields of knowledge, to describe a phenomenon in our area of expertise. I have a couple of recent examples that are particularly bothering me, and I can be pretty obnoxious when bothered. So, here we are.
 
@@ -22,4 +22,4 @@ The second term that is used at least too lightly (and maybe utterly misused) is
 
 As I said, __I can be obnoxious__... but I am strongly convinced that people within the academia should be very careful about language, about using it well.
 
-As a final note, it is particularly interesting that it took a very long number of extremely specialized people (and [a lot of processing power, and energy](https://www.statista.com/statistics/1384401/energy-use-when-training-llm-models/)) to come up with __a tool whose most interesting feature is to be general__, in a way confirming the point of Epstein's book on the value of generalists in today's world.
+As a final note, it is particularly interesting that it took a very large number of extremely specialized people (and [a lot of processing power, and energy](https://www.statista.com/statistics/1384401/energy-use-when-training-llm-models/)) to come up with __a tool whose most interesting feature is to be general__, in a way confirming the point of Epstein's book on the value of generalists in today's world.
