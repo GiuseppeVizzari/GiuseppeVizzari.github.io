@@ -1,5 +1,6 @@
 ---
 title: 'On using the proper terms...'
+description: "A brief discussion on why I am afraid we are not using proper terms in AI research, these days. Also a few words on being a generalist rather than a specialist these days..."
 date: 2023-10-29
 permalink: /posts/2023/10/Using-proper-terms/
 tags:
