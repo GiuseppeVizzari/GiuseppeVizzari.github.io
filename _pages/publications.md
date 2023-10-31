@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+description: "Page linking lists of publications of Giuseppe Vizzari"
 permalink: /publications/
 author_profile: true
 ---

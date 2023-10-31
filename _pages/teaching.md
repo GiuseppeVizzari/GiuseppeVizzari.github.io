@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
+description: "Page describing university level teaching activities of Giuseppe Vizzari"
 permalink: /teaching/
 author_profile: true
 ---

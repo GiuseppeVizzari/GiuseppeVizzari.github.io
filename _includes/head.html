@@ -11,6 +11,10 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Use meta description if present in page -->
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>

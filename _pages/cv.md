@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "CV page in the personal web site of Giuseppe Vizzari"
 permalink: /cv/
 author_profile: true
 redirect_from:
