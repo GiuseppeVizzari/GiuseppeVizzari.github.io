@@ -9,8 +9,6 @@ tags:
   - ignorance
 ---
 
-## On using the proper terms...
-
 The higher education system, and the mainstream shared conception is that high levels of specialization are desirable, and useful at the individual level. If we project this kind of idea as the most shared principle driving individual training from high-school, to university, and potentially grad-school, we end up with a population of specialists. I've read a [book on the advantages of being a generalist (Range, by David Epstein)](https://davidepstein.com/the-range/) rather than having an early specialization, but surely one side effect of focusing intensely on something and not wasting time on other things is that we tend to become ignorant on any other subject outside our area of specialization.
 
 This phenomenon has a direct influence on the topic of the post, which is the usage of wrong terms, typically introduced in other fields of knowledge, to describe a phenomenon in our area of expertise. I have a couple of recent examples that are particularly bothering me, and I can be pretty obnoxious when bothered. So, here we are.
