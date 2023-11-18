@@ -7,7 +7,6 @@ tags:
   - reviewing
   - references
   - originality
-  - bias
   - rant
 ---
 
