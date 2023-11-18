@@ -5,7 +5,6 @@ date: 2023-11-18
 permalink: /posts/2023/11/Easy-but-painful/
 tags:
   - reviewing
-  - references
   - originality
   - rant
 ---
