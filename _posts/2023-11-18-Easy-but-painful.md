@@ -2,7 +2,7 @@
 title: 'An easy but painful piece'
 description: "Reviewing is hard, but this specific error is unforgivable"
 date: 2023-11-18
-permalink: /posts/2023/11/An-easy-but-painful-piece/
+permalink: /posts/2023/11/Easy-but-painful/
 tags:
   - reviewing
   - references
