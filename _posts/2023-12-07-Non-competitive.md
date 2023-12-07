@@ -6,7 +6,6 @@ permalink: /posts/2023/12/Non-competitive/
 tags:
   - research funding
   - non-competitive
-  - brave
   - academic freedom
   - Matthew effect
 ---
