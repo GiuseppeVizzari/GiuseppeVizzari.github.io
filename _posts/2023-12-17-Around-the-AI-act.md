@@ -16,7 +16,9 @@ I haven't really read the bill in details (and details here are very important, 
 
 First of all, at least in Italy there are two clichés that are relevant to this case: 
 1. that __there is no European Google (or Microsoft, or Apple, or... insert your favorite big tech here)__, and 
-2. __"laces and straps" (in italian _"lacci e lacciuoli"_)__ that essentially burden the capacity of our private sector to innovate. In this case, the two independent and self-sufficient heavily rhetorical arguments (that are essentially an __apparent (and unnecessarily stressed) truth__ and __a statement assumed as true that would instead be complicated to prove__) have a toxic synergy, suggesting that there would not be a big tech in the EU (and in Italy especially) due to the heavy regulation that represents a burden too heavy to allow European companies to fly as high as American or Asian ones.
+2. __"laces and straps" (in italian _"lacci e lacciuoli"_)__ that essentially burden the capacity of our private sector to innovate.
+
+In this case, the two independent and self-sufficient heavily rhetorical arguments (that are essentially an __apparent (and unnecessarily stressed) truth__ and __a statement assumed as true that would instead be complicated to prove__) have a toxic synergy, suggesting that there would not be a big tech in the EU (and in Italy especially) due to the heavy regulation that represents a burden too heavy to allow European companies to fly as high as American or Asian ones.
 
 Well, I beg to disagree.
 
