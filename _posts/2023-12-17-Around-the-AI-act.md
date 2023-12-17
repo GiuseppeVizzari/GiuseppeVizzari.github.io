@@ -1,5 +1,5 @@
 ---
-title: 'Around-the-AI-act'
+title: 'Around the AI act'
 description: "Some considerations and thought on topics somehow related to the AI act"
 date: 2023-12-17
 permalink: /posts/2023/17/Around-the-AI-act/
