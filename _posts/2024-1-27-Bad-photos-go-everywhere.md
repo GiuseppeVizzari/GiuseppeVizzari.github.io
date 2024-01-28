@@ -23,7 +23,7 @@ It is not an isolated case. Here is a photo of Ciclamino taken with my [Pentax K
 
 ![My cat Ciclamino relaxing in a sunny weekend](https://cdn.pixabay.com/photo/2022/04/15/06/50/cat-7133726_1280.jpg "My cat Ciclamino relaxing in a sunny weekend")
 
-Again, I tracked down several websites using this photo. The [website of a Polish company](https://www.robirobi.com/blog/) offering services and appliances for cat owners - and in [more than one page](https://www.robirobi.com/dobry-drapak-dla-kota-czyli-jaki/), the [web site of a Japanese shop](https://nigaoe-pets.com/blogs/magazine/cat-tower-one) for pet related objects, different web sites of a similar Dutch shops ([here](https://jebestekeuze.nl/category/dieren/) and [here](https://huisdierenreviews.nl/beste-krabpaal/)... I think you got the picture, there's no need to go on, even if I could.
+Again, I tracked down several websites using this photo. The [website of a Polish company](https://www.robirobi.com/blog/) offering services and appliances for cat owners - and in [more than one page](https://www.robirobi.com/dobry-drapak-dla-kota-czyli-jaki/), the [web site of a Japanese shop](https://nigaoe-pets.com/blogs/magazine/cat-tower-one) for pet related objects, different web sites of a similar Dutch shops ([here](https://jebestekeuze.nl/category/dieren/) and [here](https://huisdierenreviews.nl/beste-krabpaal/))... I think you got the picture, there's no need to go on, even if I could.
 
 On one hand, I'm glad that someone is implicitly appreciating some photos I took, although I know that there is a Giuseppe Vizzari that is a really good photographer, but [it's not me](https://vizzeppe.wixsite.com/giuseppevizzari/home), despite the homonymy!
 
