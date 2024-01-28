@@ -29,5 +29,5 @@ On one hand, I'm glad that someone is implicitly appreciating some photos I took
 
 The point is that it takes very little to acknowledge the work and contribution of someone else on the Internet: a classic example is a workshop website. I co-organized quite a number of workshops in the past few years, for instance the [AIxIA 2020 Discussion Papers workshop](https://sites.google.com/unimib.it/aixia2020-dp/) in which I credit [the author of a photo I use](https://www.flickr.com/photos/141324643@N05/49877093938) as banner.
 
-Some of the authors of these creative works could be freelance artists making a living out of this kind of activity, so at least a minimum of visibility is really due, especially from businesses that might even make a profit, partly also because of the creative works of these authors.
+Some of the authors of these creative works could be freelance artists making a living out of this kind of activity, so at least a minimum of visibility is really due, especially from businesses that might even make a profit, partly also because of the creative works of these authors. So, besides contributing to the public goods game, __be fair, give credit where it is due__.
 
