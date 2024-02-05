@@ -1,7 +1,7 @@
 ---
-title: 'Bad photos go everywhere'
+title: 'One of the problems with AI'
 description: "Applications of AI can be for the social good or they can be terrible..."
-date: 2024-2-4
+date: 2024-2-5
 permalink: /posts/2024/2/One-of-the-problems-with-AI/
 tags:
   - AI
