@@ -5,8 +5,8 @@ date: 2024-2-11
 permalink: /posts/2024/2/More-tips-to-enlarge-your-h-index/
 tags:
   - bibliometrics
-  - gaming
   - research evaluation
+  - incentives and evaluation
 ---
 
 In [an earlier post](https://giuseppevizzari.github.io/posts/2023/11/Gaming-101/) I started talking about bibliometrics, some of its flaws, and what I think has become one of the facets of an ideology, something Jerry Z. Muller called "The tyranny of metrics".I'm going to add two ways to _enlarge your H-index_ that, at the same time, also represent a totally legitimate action in the overall context of a line research.
