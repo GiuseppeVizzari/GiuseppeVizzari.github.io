@@ -2,7 +2,6 @@
 permalink: /
 title: "Giuseppe Vizzari's homepage"
 description: "Front page of the personal web site of Giuseppe Vizzari, including his cv, teaching activities, links to lists of publications, and some blog posts"
-excerpt: "About me"
 author_profile: true
 redirect_from:  
   - /about/
