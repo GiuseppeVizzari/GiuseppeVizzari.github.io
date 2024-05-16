@@ -9,7 +9,7 @@ tags:
   - evaluation
 ---
 
-Some bits and pieces that you can interpolate, and that - in my opinion - are part of trajectory that you might see as well.
+Some bits and pieces that you can interpolate, and that - in my opinion - are part of a trajectory that you might see as well.
 
 First of all, I have just received a mail message from the Ministry of University and Research, that is, my employer. It states that:
 
