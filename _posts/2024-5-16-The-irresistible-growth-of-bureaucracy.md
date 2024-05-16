@@ -22,8 +22,7 @@ First of all, I have just received a mail message from the Ministry of Universit
 
 A few weeks ago, my Department has undergone an internal evaluation procedure by a (semi independent: partly composed of personnel from my university, partly from external people) evaluation group (Nucleo di Valutazione), preceded by a preliminary meeting with another group deciding quality management procedures related to teaching (Presidio di Qualità in Ateneo - ramo didattica, all people from my university) to prepare for this evaluation. Of course we preliminary had to prepare a set of documents, describing our internal procedures. We often have the feeling that the documents are more important than the substance of the activities: basically, these forms of evaluation have the tenet "if it is not documented I will not consider it", which is dramatically close to "if it is not documented it doesn't exist".
 
-![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417415465i/22245334.jpg)
-*[The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy, by David Graeber](https://www.goodreads.com/book/show/22245334-the-utopia-of-rules)*
+[![The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy, by David Graeber](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417415465i/22245334.jpg)](https://www.goodreads.com/book/show/22245334-the-utopia-of-rules)
 
 Of course, at the beginning of each month I'm filling timesheets, in which I report time spent on funded research projects, as well as any other work related activity. Of course, I must separately fill in a register for my lessons - there is currently no way to have information about my class activities flow from one system to the other, or (God forbid!) from my calendar to any of these systems.
 
