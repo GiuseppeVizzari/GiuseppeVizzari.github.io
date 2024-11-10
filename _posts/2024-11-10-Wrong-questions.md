@@ -1,8 +1,8 @@
 ---
 title: 'Asking the right questions'
 description: ""
-date: 2024-6-28
-permalink: /posts/2024/6/The-strange-case-of-the-emerging-dead-journal/
+date: 2024-11-10
+permalink: /posts/2024/11/Asking-the-right-question/
 tags:
   - AI
   - epistemology
