@@ -19,8 +19,10 @@ I don't want to talk about topics that, again, are out of the reach of my knowle
 
 What really struck a nerve was the "wrong question" expression. As a researcher, I think it's very important to periodically ask myself  **"Am I asking the right (research) questions?"**.
 
-![Rodin's 'The Thinker' by Edvard Munch](https://upload.wikimedia.org/wikipedia/commons/4/49/Edvard_Munch%2C_Le_Penseur_de_Rodin_dans_le_parc_du_Docteur_Linde_%C3%A0_L%C3%BCbeck%2C_1907_.jpg)
-*Rodin's 'The Thinker' by Edvard Munch (thanks, Wikipedia, it's nice to find out this connection between thinking and one of the most universally recognized representations of anxiety!)*
+<div><figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Edvard_Munch%2C_Le_Penseur_de_Rodin_dans_le_parc_du_Docteur_Linde_%C3%A0_L%C3%BCbeck%2C_1907_.jpg" alt="Rodin's 'The Thinker' by Edvard Munch"/>
+  <figcaption>Rodin's 'The Thinker' by Edvard Munch (thanks, Wikipedia, it's nice to find out this connection between thinking and one of the most universally recognized representations of anxiety!)</figcaption>
+</figure></div>
 
 I have always been a *modeler*. I always tried to come up with ideas about models that either mimic some form of decision making activity or that can plausibly generate, as implications of some internal mechanism regulating portions of a composite system, an overall observable behavior that is object of study. Models I came up with were interesting because they could, to a certain extent, be used as a proxy of a reality, to support some form of analysis or decision making activity. The models I usually built were largely *manually defined*, based on some understanding of the system object of study, coming from relevant literature. I generally tried to improve my knowledge about some reality to make better models, and sometimes models helped me understand better that reality. Some [colleagues also more formally defined the concept of a "learning-by-modeling" approach](https://www.tandfonline.com/doi/abs/10.1080/01969722.2011.610266).
 
