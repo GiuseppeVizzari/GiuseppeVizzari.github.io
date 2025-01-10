@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Giuseppe Vizzari, associate professor at the [Department of Informatics, Systems and Communication](https://www.disco.unimib.it/) of the [University of Milano-Bicocca](https://en.unimib.it/).
+Hi, I'm Giuseppe Vizzari, full professor at the [Department of Informatics, Systems and Communication](https://www.disco.unimib.it/) of the [University of Milano-Bicocca](https://en.unimib.it/).
 
 I have been Coordinator (for six long and troubled years, just think of the first global pandemics in the globalized world) of the master's degree in [Theory and Technology of Communication (TTC)](https://en.unimib.it/graduate/theory-technology-communication), a joint effort with the [Department of Psychology](https://psicologia.unimib.it/en). A basic description of the course is available in English (above link), but the classes are mostly in Italian, so more information can be found in Italian only in a dedicated website in [TTC's University's Moodle](https://elearning.unimib.it/course/index.php?categoryid=3514).
 
