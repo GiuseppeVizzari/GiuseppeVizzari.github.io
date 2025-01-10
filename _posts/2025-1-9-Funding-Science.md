@@ -1,6 +1,6 @@
 ---
 title: 'Funding scientific research... are we doing it well?'
-description: "A reflection on the way research is funded, and a suggestion on the fact that we should think "
+description: "A reflection on the way research is funded, and a suggestion on the fact that we should pay more attention to this point"
 date: 2025-1-10
 permalink: /posts/2025/1/Funding-Science
 tags:
