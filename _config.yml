@@ -121,6 +121,16 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/portfolio.html
+  - _pages/publications.md
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - _talkmap
 keep_files:
   - .git
   - .svn
