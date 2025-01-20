@@ -121,16 +121,19 @@ exclude:
   - tmp
   - vendor
   - files
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
   - _pages/portfolio.html
   - _pages/publications.md
   - _pages/talkmap.html
   - _pages/talks.html
-  - _pages/teaching.html
+  - _pages/teaching.md
   - _portfolio
   - _publications
   - _talks
   - _teaching
   - _talkmap
+  - markdown_generator
 keep_files:
   - .git
   - .svn
