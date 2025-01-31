@@ -96,6 +96,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _pages/publications.md
+  - _pages/teaching.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -124,10 +126,8 @@ exclude:
   - _pages/markdown.md
   - _pages/non-menu-page.md
   - _pages/portfolio.html
-  - _pages/publications.md
   - _pages/talkmap.html
   - _pages/talks.html
-  - _pages/teaching.md
   - _portfolio
   - _publications
   - _talks
