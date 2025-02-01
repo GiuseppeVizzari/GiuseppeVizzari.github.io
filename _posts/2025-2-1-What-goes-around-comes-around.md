@@ -25,7 +25,7 @@ The third point - the accusation of having distilled information from OpenAI's m
 
 <figure>
   <img src="https://cdn.pixabay.com/photo/2016/04/05/01/49/crash-1308575_1280.jpg" alt="A car crashed"/>
-  <figcaption><a href="https://pixabay.com/photos/crash-car-car-crash-accident-1308575/" target="blank">A Pixabay photo</a> suggesting that it's not always a good idea to move fast and break things.</a>.</figcaption>
+  <figcaption><a href="https://pixabay.com/photos/crash-car-car-crash-accident-1308575/" target="blank">A Pixabay photo</a> suggesting that it's not always a good idea to move fast and break things.</figcaption>
 </figure>
 
 For one, OpenAI and other major LLM developers have trained their models using massive amounts of data scraped from the internet, often disregarding terms of service and possibly even breaching **copyright laws**, not just terms of service in a contract among a client and a provider. There are ongoing and very relevant lawsuits questioning the legality of such practices, particularly regarding _fair use_ (by the way, do yourself a favor and read what the sadly deceased [Suchir Balaji thought about GenAI and fair use](https://suchir.net/fair_use.html)). I suspect that the comparably larger outrage in this case is due to the fact that the Deepseek is a Chinese company (the fourth point in my list), whereas OpenAI is an American one. With reference to the "moving fast and breaking things" tendency, these companies don't seem to be acting in a fundamentally different way, though. [Someone also commented that "karma is a bitch"](https://garymarcus.substack.com/p/openai-cries-foul), or (using a quote of Chinese roots) "Don't do unto others what you don't want done unto you".
