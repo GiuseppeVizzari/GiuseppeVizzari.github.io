@@ -24,7 +24,7 @@ The first two points caused an understandable shock in the stock market. A compa
 The third point - the accusation of having distilled information from OpenAI's models - is the most fascinating to me. It highlights at least two types of ideological stances.
 
 <figure>
-  <img src="https://pixabay.com/get/gd21d9151991dc62623edaf0aa8ac372096c7ad5fb3afdae0ee6dbfc84c9b4da03670193429c9fe5920794c09d4ff044e_640.jpg" alt="A car crashed"/>
+  <img src="https://cdn.pixabay.com/photo/2016/04/05/01/49/crash-1308575_1280.jpg" alt="A car crashed"/>
   <figcaption><a href="https://pixabay.com/photos/crash-car-car-crash-accident-1308575/" target="blank">A Pixabay photo</a> suggesting that it's not always a good idea to move fast and break things.</a>.</figcaption>
 </figure>
 
