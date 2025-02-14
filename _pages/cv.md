@@ -33,3 +33,16 @@ He is member of the Editorial Board of [Collective Dynamics](https://collective-
 ## Technology Transfer
 
 He carried out research contacts for Inspiring SW S.r.l. and BTO S.p.a. He also collaborated with CROWDYXITY S.r.l., a spin-off company of the University of Milano-Bicocca focused on the application of agent-based pedestrian modeling and simulation to support the activities of designers and urban planners.
+
+## Science Communication Activities
+- 2024 - Production of two lessons for the MOOC "Mobility as a Service: technological aspects" (Lesson on "Data Visualization and Visual Analytics for Sustainable Mobility", and "AI and Knowledge Graphs") - 
+[Link to the MOOC](https://lms.federica.eu/course/view.php?id=880) (resource in Italian).
+- 14/3/2024 - Moderator of the meeting “Intelligenza Artificiale: opportunità o minaccia?” organized by Associazione BicoccAlumni – [Link](https://youtu.be/p57sVh6AyW8?si=hBogckPt1oLzep3e) (resource in Italian).
+- 22/9/2022 - Participation in the NEANIAS Open Event with a presentation on the Latent Space Explorer service developed within the activities of the NEANIAS project – [Link](https://www.neanias.eu/index.php/open-event/neanias-open-event).
+- 5-7/2022 - Organization of a hackathon titled Hack the Science 2022, within the activities of the NEANIAS project – [Link](https://sites.google.com/unimib.it/hack-the-science-2022/challenges/hack-the-ux-of-neanias).
+- 6/10/2021 - Talk titled “Collective and crowd behaviour in real and virtual environments” in the session “Infodemic to support decision making” – NATO CA2X2 Forum 2021 & M&S Sprint Week - [Link](https://www.mscoe.org/event/nato-ca2x2-forum-2021/).
+- 18/3/2021 - Organization of the conference “NEANIAS – dai servizi cloud per la scienza aperta alla sostenibilità”, as part of the activities of the NEANIAS project, within the Milano Digital Week 2021 – [Link](https://sites.google.com/unimib.it/neanias-mdw2021/home-page) (resource in Italian).
+- 5/11/2020 - Talk titled “La scienza aperta nel cloud GARR: servizi AI e ML nel progetto NEANIAS”, as part of the activities of the NEANIAS project, within the Workshop GARR 2020 Net Makers – [Link](https://www.eventi.garr.it/it/ws21/programma/speaker/670-giuseppe-vizzari) (resource in Italian).
+- 4/11/2017 - Participation in the TV show Meravigliosamente (LA7) with an intervention on collective intelligence and crowd behavior – [Link](https://www.la7.it/meravigliosamente/rivedila7/meravigliosamente-puntata-04112017-04-11-2017-226154) (from around 12 minutes and 50 seconds, resource in Italian).
+- 2012 - Contribution to the creation of a popular science video titled “I Misteri della Certosa di Pavia”, within the activities of the TIVAL project – [Link](https://www.youtube.com/watch?v=1ymnQ16mqSQ) (resource in Italian).
+- 2010 - Contribution to the creation of a popular science video titled “Percorsi della Milano Antica”, within the activities of the “Milano Antica” project – [Link](https://www.youtube.com/watch?v=pzhVtTMW-eI&t=552s) (resource in Italian).
