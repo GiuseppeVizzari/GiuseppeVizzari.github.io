@@ -19,6 +19,8 @@ Let's start with [OpenAI's recent cry for more latitude in their operations](htt
 - even though we might respect this ruling, there are bad boys out there that will not, and they're foreigners;
 - anyway, we have a lot of mechanisms in action that will prevent our chatbots to basically spit out copyrighted material in the original form. Trust us on that, and be flexible on how to judge if we are right. Even better, let us decide.
 
+If you want to know more about fair use, or if you know about it but you want to understand if generative AI qualifies for fair use read what the sadly deceased [Suchir Balaji thought about GenAI and fair use](https://suchir.net/fair_use.html).
+
 OpenAI is not alone in this crusade against copyright rules that favor content creators and intellectual property owners. [Google recently joined them](https://arstechnica.com/google/2025/03/google-agrees-with-openai-that-copyright-has-no-place-in-ai-development/), and I suspect that most big tech companies are completely aligned with them.
 
 <figure>
