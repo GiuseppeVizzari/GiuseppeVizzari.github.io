@@ -35,9 +35,10 @@ He is member of the Editorial Board of [Collective Dynamics](https://collective-
 He carried out research contacts for Inspiring SW S.r.l. and BTO S.p.a. He also collaborated with CROWDYXITY S.r.l., a spin-off company of the University of Milano-Bicocca focused on the application of agent-based pedestrian modeling and simulation to support the activities of designers and urban planners.
 
 ## Science Communication Activities
+- 2025 - Moderator of the meeting "Disinformazione online: il duplice ruolo dell’IA" ("Disinformation Online: The Dual Role of AI") organized by Associazione [BicoccAlumni](https://www.bicoccalumni.it/) - [Link](https://youtu.be/JZtLs7BFqCk?si=othSUTOsqOqvIUpP)(resource in Italian).
 - 2024 - Production of two lessons for the MOOC "Mobility as a Service: technological aspects" (Lesson on "Data Visualization and Visual Analytics for Sustainable Mobility", and "AI and Knowledge Graphs") - 
 [Link to the MOOC](https://lms.federica.eu/course/view.php?id=880) (resource in Italian).
-- 14/3/2024 - Moderator of the meeting “Intelligenza Artificiale: opportunità o minaccia?” ("AI: opportunity or threat?") organized by Associazione BicoccAlumni – [Link](https://youtu.be/p57sVh6AyW8?si=hBogckPt1oLzep3e) (resource in Italian).
+- 14/3/2024 - Moderator of the meeting "Intelligenza Artificiale: opportunità o minaccia?" ("AI: opportunity or threat?") organized by Associazione [BicoccAlumni](https://www.bicoccalumni.it/) – [Link](https://youtu.be/p57sVh6AyW8?si=hBogckPt1oLzep3e)(resource in Italian).
 - 22/9/2022 - Participation in the NEANIAS Open Event with a presentation on the Latent Space Explorer service developed within the activities of the NEANIAS project – [Link](https://www.neanias.eu/index.php/open-event/neanias-open-event).
 - 5-7/2022 - Organization of a hackathon titled Hack the Science 2022, within the activities of the NEANIAS project – [Link](https://sites.google.com/unimib.it/hack-the-science-2022/challenges/hack-the-ux-of-neanias).
 - 6/10/2021 - Talk titled “Collective and crowd behaviour in real and virtual environments” in the session “Infodemic to support decision making” – NATO CA2X2 Forum 2021 & M&S Sprint Week - [Link](https://www.mscoe.org/event/nato-ca2x2-forum-2021/).
