@@ -5,7 +5,7 @@ date: 2025-5-24
 permalink: /posts/2025/5/Biases-we-are
 tags:
   - biases
-  - humans
+  - group dynamics
   - management
   - academia
 ---
