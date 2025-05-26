@@ -2,8 +2,6 @@
 
 <meta charset="utf-8">
 
-{% include seo.html %}
-
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -14,6 +12,7 @@
 <!-- Use meta description if present in page -->
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
+{% include seo.html %}
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
