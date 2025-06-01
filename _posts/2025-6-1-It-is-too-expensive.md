@@ -42,4 +42,4 @@ The overall combined effect of these points is somewhat clear. Even if some of t
   <figcaption><a href="https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital">The Code of Capital: How the Law Creates Wealth and Inequality - by Katharina Pistor</a></figcaption>
 </figure>
 
-I'd love to be able to say something enlightening about the why and how we still don't have a clear fair use discipline in the GenAI era. However, it is a lot better to suggest you reading <a href="https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital">The Code of Capital - by Katharina Pistor</a>.
+I'd love to be able to say something enlightening to elaborate why and how it is that we still don't have a clear fair use discipline in the GenAI era. However, it is a lot better to suggest you reading <a href="https://press.princeton.edu/books/hardcover/9780691178974/the-code-of-capital">The Code of Capital - by Katharina Pistor</a>.
