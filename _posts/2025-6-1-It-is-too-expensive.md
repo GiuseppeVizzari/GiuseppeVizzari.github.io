@@ -1,6 +1,6 @@
 ---
-title: 'Is it too expensive to preserve a morality?'
-description: "A hard ."
+title: 'Is it too expensive to have a reasonable fair-use regulation?'
+description: "The CEO of Getty Images says it's getting too expensive to to fight copyright battle against the GenAI industry. So much to much establishing a fair use discipline in the GenAI era?"
 date: 2025-6-1
 permalink: /posts/2025/6/It-is-too-expensive
 tags:
@@ -21,7 +21,7 @@ The sad news - or at least what I interpret as a sad news - is that Getty Images
   <figcaption>The original image, on the left, the GenAI reconstructed one by Stable Diffusion, on the right.</figcaption>
 </figure>
 
-My immediate reaction to reading this news was "well, so much for establishing a fair use discipline in the GenAI era". Quite simply, since so much money has flowed funding initiatives in the GenAI sector, how can even established and legitimate businesses like Getty Images, or [the New York Times](https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/) or [even Wikipedia](https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/) (OK, this is not a business, it's a crowdsourced initiative offering digital contents through open licenses, but it is suffering from the implications of the rise of AI crawlers) think of defending themselves when even lawsuits are ineffective?
+My immediate reaction to reading this news was "well, so much to establishing a fair use discipline in the GenAI era". Quite simply, since so much money has flowed funding initiatives in the GenAI sector, how can even established and legitimate businesses like Getty Images, or [the New York Times](https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/) or [even Wikipedia](https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/) (OK, this is not a business, it's a crowdsourced initiative offering digital contents through open licenses, but it is suffering from the implications of the rise of AI crawlers) think of defending themselves when even lawsuits are ineffective?
 
 Moreover, part of the strategy of offering some of these chatbots and services basically without entrance fees is aimed at generating a shared feeling that these tools are not just useful, they are __necessary__! Maybe not [the addiction cases](https://futurism.com/the-byte/chatgpt-dependence-addiction) that some are reporting, but a more diffused form of dependency, closer to those associated to smartphones, social media, pervasive communication. There's a reasonably interesting book I can suggest on this topic: ["Stolen Focus" by Johann Hari](https://www.goodreads.com/book/show/57933306-stolen-focus).
 
