@@ -151,6 +151,8 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  hardbreak: true
+  indentation_with_nbsp: false #Important for preserving spacing in code blocks and lyrics
   input: GFM
   hard_wrap: false
   auto_ids: true

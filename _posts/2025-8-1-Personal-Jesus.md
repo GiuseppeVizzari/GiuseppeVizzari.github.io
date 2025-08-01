@@ -25,6 +25,7 @@ tags:
 > Take second best, put me to the test
 > Things on your chest you need to confess
 > I will deliver, you know I'm a forgiver
+>
 > Reach out and touch faith (Depeche Mode - Personal Jesus)
 
 Some time ago, I was preparing material for a seminar on societal and ethics issues related to AI. The target audience was lower secondary school teachers. Due to the current context and the desiderata legitimately expressed by the organizers, where you find AI, you should think chatbots employing some LLM. Looking at interesting online material to warn these educators about risks of an unaware adoption of these tools, I found a report on ["How People are Really Using Generative AI Now" by Marc Zao-Sanders](https://learn.filtered.com/hubfs/The%202025%20Top-100%20Gen%20AI%20Use%20Case%20Report.pdf). I did not have the time and even the competence to review the adopted methods— that are rooted in qualitative analysis— so it should be clear that I'm not proposing it as a definitive response to the question you would get adding a question mark at the end of the title. I certainly think that there are cultural differences that influence the use of such tools in different countries, but still seeing uses labeled as "Therapy / companionship", "Organise my life", "Find purpose" above utilitarian usages is striking.
