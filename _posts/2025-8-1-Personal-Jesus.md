@@ -12,19 +12,19 @@ tags:
 - pop culture references
 ---
 
-> Your own personal Jesus
-> Someone to hear your prayers
-> Someone who cares
-> Your own personal Jesus
-> Someone to hear your prayers
-> Someone who's there
+> Your own personal Jesus  
+> Someone to hear your prayers  
+> Someone who cares  
+> Your own personal Jesus  
+> Someone to hear your prayers  
+> Someone who's there  
 >
-> Feeling unknown and you're all alone
-> Flesh and bone by the telephone
-> Lift up the receiver, I'll make you a believer
-> Take second best, put me to the test
-> Things on your chest you need to confess
-> I will deliver, you know I'm a forgiver
+> Feeling unknown and you're all alone  
+> Flesh and bone by the telephone  
+> Lift up the receiver, I'll make you a believer  
+> Take second best, put me to the test  
+> Things on your chest you need to confess  
+> I will deliver, you know I'm a forgiver  
 >
 > Reach out and touch faith (Depeche Mode - Personal Jesus)
 
