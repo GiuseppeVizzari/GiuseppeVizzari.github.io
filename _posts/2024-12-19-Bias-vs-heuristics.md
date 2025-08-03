@@ -20,7 +20,7 @@ One problem with bias is that it can sometimes be (to a certain extent) related 
 We also have a different, although maybe non that popular, name for mental shortcuts that we use to simplify some decision making activity also related to experiences: *heuristics*. Heuristics are pragmatic methods, often based in induction or analogical thinking, and they generally support us in taking decisions based on the idea that finding optimal solutions is sometimes impractical or even impossible. On the other hand, it can be relatively simple to find satisfactory or acceptable solutions. Of course, heuristics can fail or anyway produce suboptimal results, but nonetheless we generally project a more neutral intent to the term.
 
 <figure>
-  <img src="https://x.com/oyevivekk/status/1758555515586527462/photo/1" alt="AI generated image of Mother Theresa fighting against poverty"/>
+  <img src="https://img.americasbestpics.com/images/208eacaa671d9a5b297804b51d92c12af1ca4dcd465d8ca97f8e471f2bbb2a0a_1.jpg" alt="AI generated image of Mother Theresa fighting against poverty"/>
   <figcaption>AI generated image of Mother Theresa fighting against poverty</figcaption>
 </figure>
 
