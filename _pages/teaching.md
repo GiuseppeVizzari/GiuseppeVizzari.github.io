@@ -8,10 +8,11 @@ author_profile: true
 
 ## Teaching duties (bachelor's and master's degree level)
 
-- (2022 - now) [Introduction to Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=49465#en) - 3 ECTS - Bachelor's Degree in Informatics - 3rd year
+- (2025 - now) [Module Smart Mobility in the Data Science Lab on Smart Cities](https://elearning.unimib.it/course/info.php?id=61185) - 3 ECTS - Master's Degree in Data Science - 2nd year
 - (2022 - now) [Web Applications: Design and Development](https://elearning.unimib.it/course/info.php?id=51512#en) (Laboratory) - 3 ECTS - Master's Degree in Communication Theory and Technology - 2nd year
-- (2019 - now) [Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=51520#en) - 4 ECTS in 2019, 2020 and 2022, 6 ECTS in 2021 - Master's Degree in Communication Theory and Technology - 2nd year
 - (2012 - now) [Complex Systems: Models and Simulation](https://elearning.unimib.it/course/info.php?id=51465#en) - 4 or 5 ECTS assignment - Master's Degree in Computer Science - 1st year
+- (2022 - 2024) [Introduction to Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=49465#en) - 3 ECTS - Bachelor's Degree in Informatics - 3rd year
+- (2019 - 2024) [Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=51520#en) - 4 ECTS in 2019, 2020 and 2022, 6 ECTS in 2021 - Master's Degree in Communication Theory and Technology - 2nd year
 - (2021 - 2022) __Technologies and Applications of Distributed Systems (Laboratory)__ - 3 ECTS - Master's Degree in Communication Theory and Technology - 2nd year
 - (2015 - 2020) __Web Tools and Applications__ - 6 ECTS - Master's Degree in Communication Theory and Technology - 1st year
 - (2012 - 2021) __Distributed Systems (Laboratory)__ - 2 ECTS - Bachelor's Degree in Computer Science - 2nd year
