@@ -8,8 +8,9 @@ author_profile: true
 
 ## Teaching duties (bachelor's and master's degree level)
 
+- (2026 - now) [Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=68862) - (2 ECTS) - Master's Degree in Computer Science  - 2nd year (lead instructor: [Prof. Matteo Palmonari](https://en.unimib.it/matteo-luigi-palmonari))
 - (2025 - now) [Module Smart Mobility in the Data Science Lab on Smart Cities](https://elearning.unimib.it/course/info.php?id=61185) - 3 ECTS - Master's Degree in Data Science - 2nd year
-- (2022 - now) [Web Applications: Design and Development](https://elearning.unimib.it/course/info.php?id=51512#en) (Laboratory) - 3 ECTS - Master's Degree in Communication Theory and Technology - 2nd year (in 2025-26 I was the main instructor for 6 ECTS)
+- (2022 - now) [Web Applications: Design and Development](https://elearning.unimib.it/course/info.php?id=51512#en) (Laboratory) - 3 ECTS - Master's Degree in Communication Theory and Technology - 2nd year (in 2025-26 I was the main instructor for 6 ECTS) 
 - (2012 - now) [Complex Systems: Models and Simulation](https://elearning.unimib.it/course/info.php?id=51465#en) - 4 or 5 ECTS assignment - Master's Degree in Computer Science - 1st year
 - (2022 - 2024) [Introduction to Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=49465#en) - 3 ECTS - Bachelor's Degree in Informatics - 3rd year
 - (2019 - 2024) [Artificial Intelligence](https://elearning.unimib.it/course/info.php?id=51520#en) - 4 ECTS in 2019, 2020 and 2022, 6 ECTS in 2021 - Master's Degree in Communication Theory and Technology - 2nd year
@@ -33,4 +34,4 @@ Please notice that:
 
 - existing links (sorry old stuff is gone) lead to the syllabus;
 - the reported ECTS refers to my workload in the class, not the overall ECTS value;
-- unless otherwise indicated (e.g. Laboratory) I am the main instructor.
+- unless otherwise indicated (e.g. Laboratory) I am the lead instructor.
